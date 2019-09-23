@@ -1,16 +1,16 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tip Calculator*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tip Calculator** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Anthony Pummill**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [√] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
@@ -35,9 +35,12 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+   I had some trouble at first linking the elements to specific views, regarding the swift code to controll the elements. 
+This is my first introduction to swift, and building apps. It'll take some getting used to, but from what I have learned so far this seems so much more efficient and easy to work with than C++. Im excited to learn more!
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2019] [Anthony James Richard Pummill]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
